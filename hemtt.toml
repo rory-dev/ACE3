@@ -1,6 +1,6 @@
-name = "ACE3"
-prefix = "ace"
-author = "ACE-Team"
+name = "[A3] Advanced Combat Environment"
+prefix = "a3ace"
+author = "A3COMMAND"
 files = [
     "*.dll",
     "*.so",
